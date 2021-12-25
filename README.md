@@ -1,2 +1,2 @@
-# shoes-app
-shoes-app
+# shoes-app-react
+shoes-app-react

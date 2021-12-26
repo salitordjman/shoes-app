@@ -26,3 +26,10 @@
   margin: 2px;
   font-size: 3.3vh;
 }
+header {
+  display: flex;
+  margin: 1vh;
+}
+.add-btns {
+  margin: 0 2vh 0 5vh;
+}
